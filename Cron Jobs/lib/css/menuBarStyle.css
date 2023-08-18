@@ -1,0 +1,108 @@
+#menuNavBloc
+{
+	display: flex;
+	flex-direction: row;
+	width: 100vw;
+	height: 5vh;
+	border: 1px solid grey;
+}
+
+#menuNavSubBlocOne
+{
+	display: flex;
+	flex-direction: row;
+	width: fit-content;
+	max-width: 35vw;
+	border: 1px solid grey;
+	text-align: center;
+	align-items: center;
+}
+
+#menuNavSubBlocOneContent
+{
+	display: flex;
+    flex-direction: row;
+    width: fit-content;
+    max-width: 35vw;
+}
+
+
+#menuNavSubBlocTwo
+{
+	display: flex;
+	flex-direction: row;
+	width: fit-content;
+	max-width: 35vw;
+	border: 1px solid grey;
+	text-align: center;
+	align-items: center;
+	margin-left: 2vw;
+}
+
+#menuNavSubBlocTwoContent
+{
+	display: flex;
+    flex-direction: row;
+    width: fit-content;
+    max-width: 35vw;
+}
+
+#menuNavSubBlocTwoContent > a
+{
+	text-decoration: none;
+	color: black;
+}
+
+
+#menuNavSubBlocThree
+{
+	display: flex;
+	flex-direction: row;
+	width: fit-content;
+	max-width: 35vw;
+	border: 1px solid grey;
+	text-align: center;
+	align-items: center;
+	margin-left: 2vw;
+}
+
+#menuNavSubBlocThreeContent
+{
+	display: flex;
+    flex-direction: row;
+    width: fit-content;
+    max-width: 35vw;
+}
+
+#menuNavSubBlocThreeContent > a
+{
+	text-decoration: none;
+	color: black;
+}
+
+
+#menuNavSubBlocFour
+{
+	display: flex;
+	flex-direction: row;
+	width: fit-content;
+	max-width: 35vw;
+	border: 1px solid grey;
+	text-align: center;
+	align-items: center;
+	margin-left: 2vw;
+}
+
+#menuNavSubBlocFourContent
+{
+	display: flex;
+    flex-direction: row;
+    width: fit-content;
+    max-width: 35vw;
+}
+
+#menuNavSubBlocFourContent > a
+{
+	text-decoration: none;
+	color: black;
+}

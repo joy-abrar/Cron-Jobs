@@ -1,0 +1,60 @@
+#headerTitleBloc
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	margin: auto;
+	text-align: center;
+	align-items: center;
+}
+
+#headerTitle
+{
+	display: flex;
+	flex-direction: row;
+	font-size: 5vw;
+}
+
+
+#submitForm
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	margin: auto;
+	align-items: center;
+}
+
+#submitFormDiv
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	margin: auto;
+	align-items: center;
+	border: 2px solid grey;
+	box-shadow: 3px 2px 3px 2px black;
+	width: 60vw;
+	padding: 2vw;
+}
+
+#submitThisClientFormButton
+{
+	font-size: larger;
+	background: grey;
+	font-family: segoe UI Light;
+	font-weight: 800;
+	color: white;
+	border: 2px solid white;
+	border-radius: 10px;
+	box-shadow: 3px 2px 2px 1px grey;
+	text-align: center;
+	margin: auto;
+	padding: auto;
+}
+
+#submitThisClientFormButton:hover
+{
+	color: greenyellow;
+	transition-duration: 0.6s;
+}
